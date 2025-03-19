@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Iphone iphone = new Iphone();
 
-        iphone.exibirPagina("https://web.dio.me/users/ale_bezerra_donisete?tab=achievements");
+        iphone.exibirPagina("https://www.dio.me/users/ale_bezerra_donisete");
         iphone.adicionarNovaAba();
         iphone.atualizarPagina();
 
